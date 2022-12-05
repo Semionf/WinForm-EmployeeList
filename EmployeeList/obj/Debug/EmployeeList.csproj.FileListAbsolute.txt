@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EmployeeList\EmployeeList\bin\Debug\EmployeeList.exe.config
+C:\Users\User\source\repos\EmployeeList\EmployeeList\bin\Debug\EmployeeList.exe
+C:\Users\User\source\repos\EmployeeList\EmployeeList\bin\Debug\EmployeeList.pdb
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.Form1.resources
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.Properties.Resources.resources
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.exe
+C:\Users\User\source\repos\EmployeeList\EmployeeList\obj\Debug\EmployeeList.pdb
